@@ -3,7 +3,7 @@
         "url": "https://www.49jili.com/?pid=pagcor777",
         "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["LA","PH"],
+        "countryCodes": ["LA","PH","BR"],
         "adjustParams": [
             {
                 "name": "adj_complete_registration",
@@ -50,7 +50,7 @@
         "url": "https://www.49jili.com/?pid=pagcor777",
         "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["LA","PH"],
+        "countryCodes": ["LA","PH","BR"],
         "adjustParams": [
             {
                 "name": "adj_complete_registration",
