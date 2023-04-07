@@ -1,7 +1,7 @@
 {
     "xiaofeng699": {
         "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["LA","PH","BR"],
         "adjustParams": [
@@ -48,7 +48,7 @@
     },
     "xiaofeng894": {
         "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["LA","PH","BR"],
         "adjustParams": [
